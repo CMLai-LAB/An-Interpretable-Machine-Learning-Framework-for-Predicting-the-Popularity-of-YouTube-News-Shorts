@@ -49,7 +49,7 @@ After downloading the files, place them under `data/` in the repository root.
 
 - The LaTeX manuscript and bibliography are maintained separately and are not part of this GitHub package.
 - Large local caches, exploratory artifacts, raw thumbnail assets, and unrelated experimental branches are excluded from version control.
-- The curated paper outputs included in this repository are documented in [results/paper/README.md](/home/yeley/youtube_shorts/results/paper/README.md).
+- The curated paper outputs included in this repository are documented in results/paper/README.md.
 
 ## Environment
 
